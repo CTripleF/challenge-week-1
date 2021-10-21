@@ -5,6 +5,7 @@
     margin: 0;
 }
 /*UNIVERSAL STYLE END*/
+
 body {
     background-color: #d9dcd6;
 }
@@ -115,7 +116,7 @@ p {
 }
 /*BENEFITS SECTION STYLE END*/
 
-/*CONTENT DIVISIONS STYLE*/
+/*CONTENT SECTIONS STYLE*/
 .search-engine-optimization, .online-reputation-management, 
 .social-media-marketing {
     margin-bottom: 20px;
@@ -136,7 +137,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/*CONTENT DIVISIONS STYLE END*/
+/*CONTENT SECTIONS STYLE END*/
 
 /*FOOTER STYLE*/
 footer {

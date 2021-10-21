@@ -6,8 +6,10 @@ first commit added comments to different sections of CSS.
 second commit reduced redundant code. 
 
 ## Screenshots
-[screenshot_1](assests/images/challenge-week-1-screenshot.png)
-[screenshot_2](assests/images/challenge-week-1-screenshot(2).png)
+there are two screenshots of the application found in the assets folder as follows:
+
+assests/images/challenge-week-1-screenshot.png
+assests/images/challenge-week-1-screenshot(2).png
 
 ## Week 1 Challenge link
 [live version](https://ctriplef.github.io/challenge-week-1/)
