@@ -9,6 +9,7 @@ second commit reduced redundant code.
 there are two screenshots of the application found in the assets folder as follows:
 
 assests/images/challenge-week-1-screenshot.png
+
 assests/images/challenge-week-1-screenshot(2).png
 
 ## Week 1 Challenge link
