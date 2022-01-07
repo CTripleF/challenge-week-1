@@ -5,12 +5,9 @@ After refactoring code the first time I ran into an issue with getting the chall
 first commit added comments to different sections of CSS.
 second commit reduced redundant code. 
 
-## Screenshots
-there are two screenshots of the application found in the assets folder as follows:
+## Screenshot
 
-assests/images/challenge-week-1-screenshot.png
-
-assests/images/challenge-week-1-screenshot(2).png
+![horiseon_screenshot](https://user-images.githubusercontent.com/91702886/148567739-d2c0a3e0-4e49-451f-8ac0-4c3e1c2deba4.PNG)
 
 ## Week 1 Challenge link
 [live version](https://ctriplef.github.io/challenge-week-1/)
